@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grontantask/static/css/main.c2cab247.css",
+    "main.js": "/grontantask/static/js/main.dbbe2cf4.js",
+    "static/js/787.b7fbffec.chunk.js": "/grontantask/static/js/787.b7fbffec.chunk.js",
+    "index.html": "/grontantask/index.html",
+    "main.c2cab247.css.map": "/grontantask/static/css/main.c2cab247.css.map",
+    "main.dbbe2cf4.js.map": "/grontantask/static/js/main.dbbe2cf4.js.map",
+    "787.b7fbffec.chunk.js.map": "/grontantask/static/js/787.b7fbffec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.dbbe2cf4.js"
+  ]
+}
